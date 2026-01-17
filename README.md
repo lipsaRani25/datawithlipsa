@@ -1,0 +1,2 @@
+# datawithlipsa
+Python + SQL
